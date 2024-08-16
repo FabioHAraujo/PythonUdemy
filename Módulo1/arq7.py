@@ -34,3 +34,4 @@ print('Aqui vai o argumento 3: {2}, aqui o 1: {0} e aqui o 2: {1}'.format(8,5,4)
 print('Aqui vai o argumento 3: {terceiro}, aqui o 1: {0} e aqui o 2: {1}'.format(8,5,terceiro=4))
 
 # print(terceiro) - não funciona, devido ao escopo, pois a nomeação não declara uma variável para fora do format.
+

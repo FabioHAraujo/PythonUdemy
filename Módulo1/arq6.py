@@ -17,3 +17,5 @@ print(1+1**5+5) # Objetivo do autor era dar 1024, por matemática simples, resul
 
 # Corrigido: 
 print((1+1)**(5+5)) # Agora os parênteses garantem a integridade do resultado
+
+
